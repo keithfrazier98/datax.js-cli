@@ -1,0 +1,10 @@
+{
+  "name": "datafi-reference",
+  "version": "1.0.0",
+  "description": "A working and minimal reference to using datax.js to create/mint/trade/stake datatokens without a user interface. ",
+  "main": "index.js",
+  "repository": "https://github.com/keithfrazier98/datafi-reference.git",
+  "author": "Keith Frazier <keithers98@gmail.com>",
+  "license": "Apache 2.0",
+  "private": false
+}
