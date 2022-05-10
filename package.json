@@ -5,9 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/keithfrazier98/datafi-reference.git",
   "author": "Keith Frazier <keithers98@gmail.com>",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "private": false,
   "dependencies": {
     "@dataxfi/datax.js": "^1.1.37"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
   }
 }
